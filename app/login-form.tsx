@@ -11,5 +11,5 @@ export default function LoginForm() {
     if (!response.ok) return setError(data.error ?? "ログインできませんでした。");
     router.push("/missions"); router.refresh();
   }
-  return <form action={submit}><label htmlFor="nickname">ニックネーム</label><input id="nickname" name="nickname" required maxLength={80} autoComplete="nickname" />{error && <p className="error">{error}</p>}<div className="actions"><button disabled={pending}>{pending ? "登録中…" : "この名前で参加する"}</button></div></form>;
+  return <form action={submit}><label htmlFor="nickname">ニックネーム</label><input id="nickname" name="nickname" required maxLength={80} autoComplete="nickname" />{error && <p className="error">{error}</p>}<div className="actions"><button disabled={pending}>{pending ? "登録中…" : "登録"}</button></div></form>;
 }
