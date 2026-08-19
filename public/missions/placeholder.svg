@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 600" role="img" aria-label="Mission image placeholder">
+  <rect width="1200" height="600" fill="#edf1f5"/>
+  <path d="M0 430 280 240l180 130 210-210 530 350v90H0z" fill="#cbd5e1"/>
+  <circle cx="890" cy="175" r="62" fill="#93c5fd"/>
+  <text x="600" y="525" text-anchor="middle" fill="#475569" font-family="Arial, sans-serif" font-size="36">Mission image</text>
+</svg>
