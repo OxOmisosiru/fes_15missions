@@ -41,14 +41,14 @@ export const missions: MissionDefinition[] = [
   {
     index: 4,
     title: "Mission 4: Quartet",
-    description: "クリア条件：Web型ギルド戦謎解き『Quartet』がどこかのギルドによってクリアされること\n\n『Quartet』の詳細・注意事項は https://x.com/ENIG_ROID/status/2087524510568431629 とそのリプライを参照してください。\n出題サイトはこちら https://www.enig-roid.com/enigma_quartet/",
+    description: "クリア条件：Web型ギルド戦謎解き『Quartet』がどこかのギルドによってクリアされること\n\n『Quartet』の詳細・注意事項は https://x.com/ENIG_ROID/status/2087524510568431629 とそのリプライを参照してください。",
     image: "",
     answerType: "none",
   },
   {
     index: 5,
     title: "Mission 5: 五分五分",
-    description: "クリア条件：まとめ謎に正解すること\n\nTwitter(現X)(@15missions) 上の投票によって、一枚謎の二分割のうちどちらが与えられるかが決定されます。\n二分割された後の謎は受付付近にて掲示します。\n解答判定はまとめ謎のみ行います。まとめ謎の解答が分かったらこのページにて送信してください",
+    description: "クリア条件：４の謎に正解すること\n\nX(@15missions) 上の投票によって、謎の二分割のうちどちらが与えられるかが決定されます。\n二分割された後の謎は受付付近にて掲示します。\n解答判定はまとめ謎のみ行います。まとめ謎の解答が分かったらこのページにて送信してください。",
     image: "",
     answerType: "answer",
   },
