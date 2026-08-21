@@ -98,7 +98,7 @@ export const missions: MissionDefinition[] = [
     index: 12,
     title: "Mission 12: o'clock",
     description: "クリア条件：8/22 10:00から 8/23 19:00 の間の、12時から1時間ほど受付で掲示される謎を解き、「o'clock」の解答を導くこと\n\n",
-    image: "",
+    image: "/missions/15_oclock.PNG",
     answerType: "none",
   },
   {

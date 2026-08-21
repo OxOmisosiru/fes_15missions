@@ -1,4 +1,4 @@
-:root { color-scheme: dark; --ink:#172033; --muted:#637083; --line:#dce3eb; --accent:#2563eb; --bg:#f6f8fb; }
+:root { color-scheme: dark; --ink:#172033; --muted:#637083; --line:#dce3eb; --accent:#2563eb; --bg:#202020; }
 * { box-sizing:border-box; }
 body { margin:0; color:var(--ink); background:var(--bg); font-family:Arial,"Hiragino Kaku Gothic ProN","Yu Gothic",sans-serif; }
 a { color:inherit; text-decoration:none; }
