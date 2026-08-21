@@ -31,7 +31,7 @@ export default async function RootLayout({
       <body>
         {nickname && (
           <div className="user-nickname">
-            {nickname}さん
+            {nickname}
           </div>
         )}
 
