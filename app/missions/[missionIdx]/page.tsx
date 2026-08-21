@@ -71,7 +71,7 @@ export default async function MissionPage({
             <>
               <p className="cleared">クリア済み</p>
               <p className="meta">
-                クリアした人: {clearerNickname ?? "不明"}
+                クリアした人: {clearerNickname ?? "匿名"}
                 {status.when
                   ? ` / ${new Date(status.when).toLocaleString("ja-JP")}`
                   : ""}

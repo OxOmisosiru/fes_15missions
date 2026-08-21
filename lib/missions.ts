@@ -20,7 +20,7 @@ export const missions: MissionDefinition[] = [
   {
     index: 1,
     title: "Mission 1: One Piece",
-    description: "クリア条件：画像の問題に誰かが正解すること\n\n解答はこのページから送信してください。受付では対応しません。\nまた解答過程も記入してください。このミッションでは勘での正解は認められません。",
+    description: "クリア条件：画像の問題に誰かが正解すること\n\n解答はこのページから送信してください。受付では対応しません。\nまた解答過程も簡潔に記入してください。このミッションでは勘での正解は認められません。",
     image: "/missions/15_onepiece.png",
     answerType: "answer-and-reason",
   },
@@ -62,8 +62,8 @@ export const missions: MissionDefinition[] = [
   {
     index: 7,
     title: "Mission 7: Picking",
-    description: "クリア条件：受付にある鍵を全て開けること\n\n開いた場合は受付へ報告してください。\n※こちらは非常にストレスがたまる可能性のあるコンテンツです。",
-    image: "/missions/15_dice.png",
+    description: "クリア条件：受付にある鍵を全て開けること\n\n①、②、③それぞれにおいて、全て開いた場合は受付へ報告してください。\n※こちらは非常にストレスがたまる可能性のあるコンテンツです。",
+    image: "",
     answerType: "none",
   },
   {
@@ -90,29 +90,29 @@ export const missions: MissionDefinition[] = [
   {
     index: 11,
     title: "Mission 11: 〇ッ〇ーしようぜ！",
-    description: "クリア条件：以下の画像の指示を実際に実行すること\n\n※こちらは非常にストレスがたまる可能性のあるコンテンツです。",
+    description: "クリア条件：以下の画像の指示を実際に実行すること\n\n",
     image: "/missions/15_shiyouze.png",
     answerType: "none",
   },
   {
     index: 12,
     title: "Mission 12: o'clock",
-    description: "クリア条件：8/22 10:00から 8/23 19:00 の間の12時に、受付で掲示される謎を解き、「o'clock」の解答を導くこと\n\n",
+    description: "クリア条件：8/22 10:00から 8/23 19:00 の間の12時から1時間ほどに、受付で掲示される謎を解き、「o'clock」の解答を導くこと\n\n",
     image: "",
     answerType: "none",
   },
   {
     index: 13,
     title: "Mission 13: Betrayer",
-    description: "クリア条件：以下の30人に聞き込みをして、それぞれのメンバーの順位を特定し受付で報告すること\n\n1人だけ嘘をついている人物がいます。それ以外の人は全員本当のことを言っています。\n公演中のスタッフには聞き込みをしないでください。",
+    description: "クリア条件：以下の30人に聞き込みをして、それぞれのメンバーの順位を特定し受付で報告すること\n\nA.I.\nコーチョー\n直角\nsmi\nグマ\ntomato\nなぬ\nはてなぞ\nyahamasa\nりょう\nおぉ味噌汁\nRILD\nいっちー\nｎ型半導体\nリリバモリウム\nこがらし\nت74\n真\nしば\nふじみ\nどるみーる\nゐぬ娘。\nKy'3\nりんご\n逆凪\nリア\nきりけも\nながりゅう\n盈月\nShige\n\n1人だけ嘘をついている人物がいます。それ以外の人は全員本当のことを言っています。\n公演中のスタッフには聞き込みをしないでください。",
     image: "",
     answerType: "none",
   },
   {
     index: 14,
     title: "Mission 14: Variants",
-    description: "クリア条件：受付にあるヴァリアンツリドルジェネレータ（VRG）を使って作った謎を#エニグロVRG を付けてXに投稿し、100問以上の謎に正解のリプライが吊るされること\n\n注意事項などは以下の画像を参照してください。",
-    image: "",
+    description: "クリア条件：受付にあるヴァリアンツリドルジェネレータ（VRG）を使って作った謎を #エニグロVRG を付けてXに投稿し、50 問以上の謎に正解のリプライが吊るされること\n\n注意事項などは以下の画像を参照してください。",
+    image: "/missions/15_variants.png",
     answerType: "none",
   },
   {
