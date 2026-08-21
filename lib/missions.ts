@@ -48,9 +48,9 @@ export const missions: MissionDefinition[] = [
   {
     index: 5,
     title: "Mission 5: 五分五分",
-    description: "クリア条件：二分割された謎を解き、まとめ謎に正解すること\n\n二分割されたうちどちらが残るかは Twitter(現X)(@15missions) 上の投票によって決定されます。\n二分割された後の謎は受付付近にて掲示します。\n解答判定はまとめ謎のみ行います。まとめ謎の解答が分かったら受付にて報告してください。",
+    description: "クリア条件：まとめ謎に正解すること\n\nTwitter(現X)(@15missions) 上の投票によって、一枚謎の二分割のうちどちらが与えられるかが決定されます。\n二分割された後の謎は受付付近にて掲示します。\n解答判定はまとめ謎のみ行います。まとめ謎の解答が分かったらこのページにて送信してください",
     image: "",
-    answerType: "none",
+    answerType: "answer",
   },
   {
     index: 6,
@@ -104,7 +104,7 @@ export const missions: MissionDefinition[] = [
   {
     index: 13,
     title: "Mission 13: Betrayer",
-    description: "クリア条件：以下の30人に聞き込みをして、それぞれのメンバーの順位を特定し受付で報告すること\n\nA.I.\nコーチョー\n直角\nsmi\nグマ\ntomato\nなぬ\nはてなぞ\nyahamasa\nりょう\nおぉ味噌汁\nRILD\nいっちー\nｎ型半導体\nリリバモリウム\nこがらし\nت74\n真\nしば\nふじみ\nどるみーる\nゐぬ娘。\nKy'3\nりんご\n逆凪\nリア\nきりけも\nながりゅう\n盈月\nShige\n\n1人だけ嘘をついている人物がいます。それ以外の人は全員本当のことを言っています。\n公演中のスタッフには聞き込みをしないでください。",
+    description: "クリア条件：以下の30人に聞き込みをして、あるレースにおけるそれぞれのメンバーの順位を特定し受付で報告すること\n\nA.I.\nコーチョー\n直角\nsmi\nグマ\ntomato\nなぬ\nはてなぞ\nyahamasa\nりょう\nおぉ味噌汁\nRILD\nいっちー\nｎ型半導体\nリリバモリウム\nこがらし\nت74\n真\nしば\nふじみ\nどるみーる\nゐぬ娘。\nKy'3\nりんご\n逆凪\nリア\nきりけも\nながりゅう\n盈月\nShige\n\n1人だけ嘘をついている人物がいます。それ以外の人は全員本当のことを言っています。\n公演中のスタッフには聞き込みをしないでください。",
     image: "",
     answerType: "none",
   },
