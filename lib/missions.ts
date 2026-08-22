@@ -104,7 +104,7 @@ export const missions: MissionDefinition[] = [
   {
     index: 13,
     title: "Mission 13: Betrayer",
-    description: "クリア条件：以下の30人に聞き込みをして、あるレースにおけるそれぞれのメンバーの順位を特定し受付で報告すること\n\nA.I.\nコーチョー\n直角\nsmi\nグマ\ntomato\nなぬ\nはてなぞ\nyahamasa\nりょう\nおぉ味噌汁\nRILD\nいっちー\nｎ型半導体\nリリバモリウム\nこがらし\nت74\n真\nしば\nふじみ\nどるみーる\nゐぬ娘。\nKy'3\nりんご\n逆凪\nリア\nきりけも\nながりゅう\n盈月\nShige\n\n1人だけ嘘をついている人物がいます。それ以外の人は全員本当のことを言っています。\n公演中のスタッフには聞き込みをしないでください。",
+    description: "クリア条件：以下の30人に"直接"聞き込みをして、あるレースにおけるそれぞれのメンバーの順位を特定し受付で報告すること\n\nA.I.\nコーチョー\n直角\nsmi\nグマ\ntomato\nなぬ\nはてなぞ\nyahamasa\nりょう\nおぉ味噌汁\nRILD\nいっちー\nｎ型半導体\nリリバモリウム\nこがらし\nت74\n真\nしば\nふじみ\nどるみーる\nゐぬ娘。\nKy'3\nりんご\n逆凪\nリア\nきりけも\nながりゅう\n盈月\nShige\n\n1人だけ嘘をついている人物がいます。それ以外の人は全員本当のことを言っています。\n公演中のスタッフには聞き込みをしないでください。",
     image: "",
     answerType: "none",
   },
