@@ -38,3 +38,7 @@ button.secondary { background:#e8edf4; color:var(--ink); }
 
   box-shadow: 0 4px 16px rgba(0, 0, 0, 0.08);
 }
+
+.card p {
+  overflow-wrap: anywhere;
+}
